@@ -2,29 +2,29 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "quantos mundiais tem o palmeras?",
+    answer: "0",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "0",
+      "5",
+      "20",
+      "9"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Quem é o pior jogador do corinthias?",
+    answer: "Yuri Alberto",
     options: [
-      "Timor Lestet",
-      "Montenegro",
+      "Arboleda",
+      "",
       "Sudão do Sul",
       "Kosovo"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
+    question: "qual o nome do cantor que fez a musica cavalo de troia",
     answer: "Solstício de verão",
     options: [
       "Equinócio de outono",
